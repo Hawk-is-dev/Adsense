@@ -1,0 +1,4 @@
+telethon
+pysocks
+flask
+gunicorn
