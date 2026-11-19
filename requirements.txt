@@ -1,4 +1,5 @@
 telethon
+pysocks
 python-socks[asyncio]
 flask
 gunicorn
